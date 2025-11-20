@@ -16,6 +16,7 @@
     <Folder Include="Models\FR\" />
     <Folder Include="Models\AC\" />
     <Folder Include="Models\SAC\" />
+    <Folder Include="Models\OA\" />
   </ItemGroup>
 
 </Project>
