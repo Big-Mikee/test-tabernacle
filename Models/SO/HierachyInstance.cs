@@ -4,7 +4,7 @@ using System.ComponentModel.DataAnnotations.Schema;
 namespace test_tabernacle.Models.SO
 {
     [Table("so_hierarchy_instances")]
-    public class HierachyInstances : AuditEntity
+    public class HierachyInstance : AuditEntity
     {
         [Required]
         [StringLength(50)]
