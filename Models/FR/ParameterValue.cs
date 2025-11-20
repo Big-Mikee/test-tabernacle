@@ -3,6 +3,8 @@ using System.ComponentModel.DataAnnotations.Schema;
 
 namespace test_tabernacle.Models.FR
 {
+
+    [Table("fr_paramter_values")]
     public class ParameterValue : AuditEntity
     {
         [StringLength(50)]
