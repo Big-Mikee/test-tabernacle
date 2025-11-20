@@ -1,0 +1,6 @@
+@test_tabernacle_HostAddress = http://localhost:5261
+
+GET {{test_tabernacle_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
