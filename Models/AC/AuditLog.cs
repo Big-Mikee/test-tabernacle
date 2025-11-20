@@ -4,7 +4,7 @@ using System.ComponentModel.DataAnnotations.Schema;
 namespace test_tabernacle.Models.AC
 {
     [Table("ac_auditLogs")]
-    public class AcAuditLogs : AuditEntity
+    public class AuditLog : AuditEntity
     {
         [StringLength(50)]
         public string UserCode { get; set; }
