@@ -2,7 +2,6 @@
 
   <PropertyGroup>
     <TargetFramework>net8.0</TargetFramework>
-    <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
     <RootNamespace>test_tabernacle</RootNamespace>
   </PropertyGroup>
@@ -13,6 +12,11 @@
 
   <ItemGroup>
     <Folder Include="Controllers\" />
+    <Folder Include="Models\FB\" />
+    <Folder Include="Models\FR\" />
+    <Folder Include="Models\AC\" />
+    <Folder Include="Models\SAC\" />
+    <Folder Include="Models\OA\" />
   </ItemGroup>
 
 </Project>
