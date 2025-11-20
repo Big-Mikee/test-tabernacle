@@ -12,7 +12,6 @@
 
   <ItemGroup>
     <Folder Include="Controllers\" />
-    <Folder Include="Models\FB\" />
     <Folder Include="Models\FR\" />
     <Folder Include="Models\AC\" />
     <Folder Include="Models\SAC\" />
