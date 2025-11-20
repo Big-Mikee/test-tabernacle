@@ -13,7 +13,6 @@
   <ItemGroup>
     <Folder Include="Controllers\" />
     <Folder Include="Models\FB\" />
-    <Folder Include="Models\FR\" />
     <Folder Include="Models\SAC\" />
     <Folder Include="Models\OA\" />
   </ItemGroup>
